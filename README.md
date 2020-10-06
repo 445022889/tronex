@@ -29,7 +29,7 @@
 非诚勿扰！！！
 ```
 
-<img src="C:\Users\fangtaoma\AppData\Roaming\Typora\typora-user-images\image-20201006150702739.png" alt="image-20201006150702739" style="zoom:40%;" />
+<img src="http://tuchuang-mft.oss-cn-hangzhou.aliyuncs.com/2020-10-06-072049.png" alt="image-20201006152048662" style="zoom:50%;" />
 
 ###### 4：关于tronex
 
